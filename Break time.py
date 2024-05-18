@@ -1,4 +1,4 @@
-# Take a break MF
+# Take a break
 import time
 import webbrowser
 TB=100
